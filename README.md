@@ -11,7 +11,7 @@ I’m **Nikhil Badri Prasad**
  - [X] RPA (Robotic Process Automation)
  - [ ] DevOps CI/CD and configuration management tools
 * I’m seeking to establish a successful career, and make significant contributions to the IT Industry.
-* How to reach me: Email: nikhilbadriprasad@gmail.com | nikhil.bp@ucdconnect.ie  [LinkedIn](https://www.linkedin.com/in/nikhilbadriprasad/)
+* How to reach me: Email: nikhilbadriprasad@gmail.com | nikhil.bp@ucdconnect.ie | [LinkedIn](https://www.linkedin.com/in/nikhilbadriprasad/)
 
 <!---
 nikhilbadriprasad/nikhilbadriprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
